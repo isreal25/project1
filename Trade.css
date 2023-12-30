@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+background-color: powderblue;
+}
+.container{
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+}
+.heading{
+    background-color:blue;
+}
+.container1{
+    background-color: black;
+}
